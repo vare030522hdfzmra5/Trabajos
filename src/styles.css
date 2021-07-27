@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body { font-family: Verdana,MV Boli,sans-serif;
+  font-size: 34px;
+  color: rgb(170, 12, 136);
+  text-align: center;
+  background-color: #54ff05de;
+  background-image: url("https://danielalazovska.files.wordpress.com/2019/10/chatbots-o-representantes-de-servicio-al-cliente.gif");
+
+  
+  }
+  
+p{ margin-left: 80px;
+  margin-top: 20px;
+  font-size: 68%;
+  color: rgb(21, 2, 24);}
+
+  .nav > li {
+    float:left;
+  }
+
+  .nav li a {
+    background-color:#0000;
+    color:rgb(168, 27, 8);
+    font-weight: bold;
+    text-decoration:none;
+    padding: 15px 56px;
+    display:block;
+  }
+
+  
+  .nav li ul {
+    display:none;
+    position:absolute;
+    min-width:140px;
+  }
+  
+  .nav li:hover > ul {
+    display:block;
+  }
+  
+ 
